@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://q4coorpd17x4"
+path="res://.godot/imported/audio_wing.ogg-249f699246bde46bc7a8aeb08a8b42df.oggvorbisstr"
+
+[deps]
+
+source_file="res://flappy bird/assets/audio/audio_wing.ogg"
+dest_files=["res://.godot/imported/audio_wing.ogg-249f699246bde46bc7a8aeb08a8b42df.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

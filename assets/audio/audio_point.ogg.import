@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://2hijbo51pxbr"
+path="res://.godot/imported/audio_point.ogg-f89092a3ca42f07aca5d503de3aca82c.oggvorbisstr"
+
+[deps]
+
+source_file="res://flappy bird/assets/audio/audio_point.ogg"
+dest_files=["res://.godot/imported/audio_point.ogg-f89092a3ca42f07aca5d503de3aca82c.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
